@@ -1,2 +1,2 @@
 # Fortune-500-Data-Analysis-Project
-This repository contains the code and documentation for my data analysis project focused on the Fortune 500 dataset.
+The Fortune 500 list, published annually by Fortune magazine, ranks the top 500 companies by total revenue in the United States. The goal of this project is to analyze various aspects of the Fortune 500 companies using Python and Pandas, providing insights into their performance, demographics, and other key metrics.
