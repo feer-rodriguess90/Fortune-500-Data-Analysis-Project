@@ -23,7 +23,7 @@ This repository contains the code and documentation for my data analysis project
 - Numpy
 - Streamlit
 
-## Interactive Dashboard - [Take a look at the Tableau Dashboard](https://public.tableau.com/views/Thetop500companiesbytotalrevenueintheUnitedStates/Painel1?:language=pt-BR&:sid=&:display_count=n&:origin=viz_share_link)
+## Interactive Dashboard - [Tableau Dashboard - Click here](https://public.tableau.com/views/Thetop500companiesbytotalrevenueintheUnitedStates/Painel1?:language=pt-BR&:sid=&:display_count=n&:origin=viz_share_link)
 ### Explore
   - Revenue By Industry
   - Number of Employee By State
